@@ -1,0 +1,3 @@
+CHANGED,F:\Android\QQCutAvatar-master1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\Android\QQCutAvatar-master1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\imli\qqcutavatar\MainActivity$override.class
+CHANGED,F:\Android\QQCutAvatar-master1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\imli\qqcutavatar\MainActivity$1$override.class

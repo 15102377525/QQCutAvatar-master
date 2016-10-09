@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Android\\QQCutAvatar-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android\\QQCutAvatar-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\QQCutAvatar-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cut_avatar.xml",
+        "source": "F:\\Android\\QQCutAvatar-master1\\app\\src\\main\\res\\layout\\activity_cut_avatar.xml"
+    }
+]
